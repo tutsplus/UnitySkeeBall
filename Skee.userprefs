@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BallSensor.cs">
+    <Files>
+      <File FileName="Assets/AddColliders.cs" Line="1" Column="76" />
+      <File FileName="Assets/ThrowBall.cs" Line="65" Column="2" />
+      <File FileName="Assets/BallSensor.cs" Line="25" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
